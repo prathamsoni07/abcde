@@ -1,0 +1,88 @@
+[ 
+    { 
+        "Name":"Shivam Tiwari",
+        "RollNo":"123456789",
+        "Age":"19",
+        "Gender":"Male",
+        "Class":"12",
+        "Section":"12-A"
+    }, { 
+        "Name":"SameerSoni",
+        "RollNo":"123456788",
+        "Age":"19",
+        "Gender":"Male",
+        "Class":"12",
+        "Section":"12-B"
+    }, { 
+        "Name":"Pratham",
+        "RollNo":"123456787",
+        "Age":"19",
+        "Gender":"Male",
+        "Class":"12",
+        "Section":"12-C"
+    }, { 
+        "Name":"Vivek",
+        "RollNo":"123456786",
+        "Age":"19",
+        "Gender":"Male",
+        "Class":"12",
+        "Section":"12-A"
+    }, { 
+        "Name":"anurag",
+        "RollNo":"1234567875",
+        "Age":"19",
+        "Gender":"Male",
+        "Class":"12",
+        "Section":"12-C"
+    }, { 
+        "Name":"anubhav",
+        "RollNo":"12345678722",
+        "Age":"19",
+        "Gender":"Male",
+        "Class":"12",
+        "Section":"12-C"
+    }, { 
+        "Name":"Shiv pratap",
+        "RollNo":"12345678733",
+        "Age":"19",
+        "Gender":"Male",
+        "Class":"12",
+        "Section":"12-C"
+    }, { 
+        "Name":"Ahivam",
+        "RollNo":"12345678744",
+        "Age":"19",
+        "Gender":"Male",
+        "Class":"12",
+        "Section":"12-C"
+    }, { 
+        "Name":"ameer",
+        "RollNo":"12345678755",
+        "Age":"19",
+        "Gender":"Male",
+        "Class":"12",
+        "Section":"12-C"
+    }, { 
+        "Name":"ratham",
+        "RollNo":"1234567866",
+        "Age":"19",
+        "Gender":"Male",
+        "Class":"12",
+        "Section":"12-C"
+    }, { 
+        "Name":"ivek",
+        "RollNo":"12345678788",
+        "Age":"19",
+        "Gender":"Male",
+        "Class":"12",
+        "Section":"12-C"
+    }, { 
+        "Name":"atham",
+        "RollNo":"123456787445",
+        "Age":"19",
+        "Gender":"Male",
+        "Class":"12",
+        "Section":"12-C"
+    }
+    
+]

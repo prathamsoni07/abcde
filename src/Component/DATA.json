@@ -1,0 +1,60 @@
+{
+    "scheduleData": [
+        {
+            "Id": 1,
+            "Subject": "Shivam",
+            "Location": "Space Centre USA",
+            "StartTime": "2020-11-26T18:00:00",
+            "EndTime": "2020-11-26T19:30:00",
+            "CategoryColor": "red"
+        },
+        {
+            "Id": 2,
+            "Subject": "Thule Air Crash Report",
+            "Location": "Newyork City",
+            "StartTime": "2020-11-27T07:30:00",
+            "EndTime": "2020-11-27T08:30:00",
+            "CategoryColor": "#853939"
+        },
+        {
+            "Id": 3,
+            "Subject": "Thule Air Crash Report",
+            "Location": "Newyork City",
+            "StartTime": "2020-11-27T08:30:00",
+            "EndTime": "2020-11-27T09:30:00",
+            "CategoryColor": "red"
+        },
+        {
+            "Id": 4,
+            "Subject": "Thule Air Crash Report",
+            "Location": "Newyork City",
+            "StartTime": "2020-11-27T09:30:00",
+            "EndTime": "2020-11-27T10:30:00",
+            "CategoryColor": "red"
+        },
+        {
+            "Id": 5,
+            "Subject": "Thule Air Crash Report",
+            "Location": "Newyork City",
+            "StartTime": "2020-11-27T10:30:00",
+            "EndTime": "2020-11-27T11:30:00",
+            "CategoryColor": "red"
+        },
+        {
+            "Id": 6,
+            "Subject": "Thule Air Crash Report",
+            "Location": "Newyork City",
+            "StartTime": "2020-11-27T11:30:00",
+            "EndTime": "2020-11-27T12:30:00",
+            "CategoryColor": "red"
+        },
+        {
+            "Id": 6,
+            "Subject": "Thule Air Crash Report",
+            "Location": "Newyork City",
+            "StartTime": "2020-12-17T11:30:00",
+            "EndTime": "2020-12-18T12:30:00",
+            "CategoryColor": "red"
+        }
+    ]
+}

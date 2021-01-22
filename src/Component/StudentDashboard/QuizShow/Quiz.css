@@ -1,0 +1,13 @@
+.options {
+    padding: 8px;
+    border:3px solid rgb(56, 219, 219);
+    cursor: pointer;
+    width: 50%;
+    background-color: whitesmoke;
+    margin-left: 25%;   
+    font-weight: bold;
+}
+
+.selected{
+    background-color:red !important;
+}
